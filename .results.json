@@ -5,22 +5,22 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-19T00:58:51.847Z",
-    "end": "2022-06-19T00:58:52.604Z",
-    "duration": 757
+    "start": "2022-06-20T05:35:08.855Z",
+    "end": "2022-06-20T05:35:09.649Z",
+    "duration": 794
   },
   "tests": [
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,14 +34,14 @@
     {
       "title": "dog.speak() returns '[name] says woof!'",
       "fullTitle": "dog dog.speak() returns '[name] says woof!'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,14 +66,14 @@
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,14 +87,14 @@
     {
       "title": "dog.speak() returns '[name] says woof!'",
       "fullTitle": "dog dog.speak() returns '[name] says woof!'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
